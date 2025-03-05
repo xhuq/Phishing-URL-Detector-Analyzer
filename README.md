@@ -17,9 +17,9 @@ A Python-based tool to detect potential phishing URLs using heuristic analysis w
 
 1. Clone the repository :
     ```bash
-   git clone https://github.com/yourusername/phishing-detector.git
+   git clone https://github.com/xhuq/Phishing-URL-Detector-Analyzer.git
 
-   cd phishing-detector
+   cd Phishing-URL-Detector-Analyzer
 
 2. Install dependencies :
    ```bash
